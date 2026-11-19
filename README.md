@@ -51,9 +51,6 @@ A comprehensive B2B lead generation and outreach desktop application built with 
 3. **Outreach Tab:** Review the AI-generated pitches, edit them inline if necessary, check the box next to the leads you want to contact, and click "Send All Selected".
 4. **Settings Tab:** Manage your Groq/YouTube API keys and SMTP server configuration.
 
-## Note: 
+## Note on lead data
 
-The generated lead data (CSV/database) is not included in this repository because it contains scraped personal contact details. The pipeline can be re-run with your own API keys to reproduce results.*
-  
- 
-  
+The generated lead data (CSV/database) is not included in this repository because it contains scraped personal contact details. The pipeline can be re-run with your own API keys to reproduce results.
