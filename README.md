@@ -49,67 +49,11 @@ A comprehensive B2B lead generation and outreach desktop application built with 
 1. **Lead Scraper Tab:** Select a niche, choose your geo-markets, set your min/max subscriber limits, and click "Start New Search".
 2. **Leads Database Tab:** View all scraped leads, check their Priority status, and export to Excel.
 3. **Outreach Tab:** Review the AI-generated pitches, edit them inline if necessary, check the box next to the leads you want to contact, and click "Send All Selected".
-4. **Settings Tab:** Manage your Groq/YouTube API keys and SMTP server configuration. 
+4. **Settings Tab:** Manage your Groq/YouTube API keys and SMTP server configuration.
+
+## Note: 
+
+The generated lead data (CSV/database) is not included in this repository because it contains scraped personal contact details. The pipeline can be re-run with your own API keys to reproduce results.*
+  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+  
